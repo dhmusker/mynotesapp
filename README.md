@@ -1,4 +1,7 @@
-# React + Vite
+# Simple React web site deployment to AWS Amplify - React + Vite
+
+AWS Tutorial link
+https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-one/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
